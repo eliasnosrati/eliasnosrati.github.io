@@ -1,6 +1,5 @@
 layout: page
-title: Research
-filename: research.md
-permalink: /research
+title: "Research"
+permalink: //research/
 
 <p>Coming soon.</p>

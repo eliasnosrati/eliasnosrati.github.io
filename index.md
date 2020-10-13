@@ -1,5 +1,4 @@
-<h2 style="text-align: justify;"><a href="https://eliasnosrati.github.io/research">Research</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/publications">Publications</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/teaching">Teaching</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/cv">CV</a></h2>
-<h2 style="text-align: justify;"><br></h2>
+<p><br></p>
 <p><br></p>
 <p><br></p>
 <p><br></p>

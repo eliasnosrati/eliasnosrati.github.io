@@ -19,6 +19,10 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+          
+        {% for page in site.pages %}
+          <a href={{ page.filename }}>{{ page.title }}</a>
+        {% endfor %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
           
@@ -33,9 +37,6 @@
       <section>
 
       {{ content }}
-
-        <h2 style="text-align: justify;"><a href="https://eliasnosrati.github.io/research">Research</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/publications">Publications</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/teaching">Teaching</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/cv">CV</a></h2>
-<h2 style="text-align: justify;"><br></h2>
         
       </section>
       <footer>

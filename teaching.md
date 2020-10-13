@@ -16,7 +16,7 @@ permalink: //teaching/
     <li>Random variables and their distributions.</li>
     <li>Expectation and limit theorems.</li>
     <li>Theories of statistical inference.</li>
-    <li>Introduction to causality.</li>
+    <li>Introduction to causal inference.</li>
     <li>Three forms of systematic bias.</li>
     <li>Designs for causal inference.</li>
 </ol>

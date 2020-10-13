@@ -1,5 +1,5 @@
 layout: page
 title: "Research"
-permalink: /URL-PATH/
+permalink: /eliasnosrati.github.io/research/
 
 <p>Coming soon.</p>

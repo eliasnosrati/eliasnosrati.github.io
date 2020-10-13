@@ -1,4 +1,4 @@
-<h2><a href="https://eliasnosrati.github.io/research"><span style="color: rgb(0, 0, 0);">Research &nbsp; &nbsp; &nbsp; &nbsp; Publications &nbsp; &nbsp; &nbsp; &nbsp;Teaching &nbsp; &nbsp; &nbsp; &nbsp;CV<p style="text-align: justify;"><br></p>
+<h2><a href="https://eliasnosrati.github.io/research"><span style="color: rgb(0, 0, 0);">Research &nbsp; &nbsp; &nbsp; &nbsp; Publications &nbsp; &nbsp; &nbsp; &nbsp;Teaching &nbsp; &nbsp; &nbsp; &nbsp;CV<p style="text-align: justify;"></span></a></p>
 <p style="text-align: justify;"><br></p>
 <p style="text-align: justify;"><br></p>
 <p style="text-align: justify;"><br></p>

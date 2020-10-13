@@ -1,4 +1,4 @@
-<h2 style="text-align: justify;">Research &nbsp; &nbsp; &nbsp; &nbsp;Publications &nbsp; &nbsp; &nbsp; &nbsp;Teaching &nbsp; &nbsp; &nbsp; &nbsp;CV</h2>
+<h2 style="text-align: justify;"><a href="https://eliasnosrati.github.io/research">Research</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/research">Publications</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/research">Teaching</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://eliasnosrati.github.io/research">CV</a></h2>
 <h2 style="text-align: justify;"><br></h2>
 <p><br></p>
 <p><br></p>

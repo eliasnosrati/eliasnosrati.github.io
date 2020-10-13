@@ -1,4 +1,4 @@
-<p style="text-align: justify;"><br></p>
+<h2><a href="https://eliasnosrati.github.io/research/"><span style="font-family: Georgia, serif;">Research</span></a><span style="font-family: Georgia, serif;">&nbsp; &nbsp; &nbsp; &nbsp; Publications &nbsp; &nbsp; &nbsp; &nbsp;Teaching &nbsp; &nbsp; &nbsp; &nbsp;CV</span></h2><p style="text-align: justify;"><br></p>
 <p style="text-align: justify;"><br></p>
 <p style="text-align: justify;"><br></p>
 <p style="text-align: justify;"><br></p>

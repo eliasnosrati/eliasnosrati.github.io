@@ -8,5 +8,4 @@ permalink: //research/
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<p><br></p>
 <p>Coming soon.</p>

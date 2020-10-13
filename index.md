@@ -1,4 +1,3 @@
-<p><a href="https://eliasnosrati.github.io">About</a></p>
 <p style="text-align: justify;"><br></p>
 <p style="text-align: justify;"><br></p>
 <p style="text-align: justify;"><br></p>

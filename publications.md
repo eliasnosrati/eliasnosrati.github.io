@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "writings"
+title: "Writings"
 permalink: //writings/
 ---
 <p><br></p>

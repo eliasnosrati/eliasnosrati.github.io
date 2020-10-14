@@ -11,7 +11,7 @@ permalink: //teaching/
 <h3>Quantitative Methods (Human Sciences, Oxford, 2020-21)</h3>
 <p><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_2020.pdf" rel="noopener noreferrer" target="_blank">Syllabus</a></p>
 <ol>
-    <li>Introduction to probability. <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/S1.pdf" rel="noopener noreferrer" target="_blank">Slides</a>, <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/PS1.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 1</a>.</li>
+    <li>Introduction to probability. <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/S1.pdf" rel="noopener noreferrer" target="_blank">Slides</a>, <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/PS1.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 1</a>, <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/Data.zip" rel="noopener noreferrer" target="_blank">Data</a>.</li>
     <li>Conditional probability.</li>
     <li>Random variables and their distributions.</li>
     <li>Expectation and limit theorems.</li>

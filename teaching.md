@@ -9,7 +9,7 @@ permalink: //teaching/
 <p><br></p>
 <p><br></p>
 <h3>Quantitative Methods&nbsp;</h3>
-<p>Final-year option, Human Sciences, University of Oxford.</p>
+<p>Final year option, Human Sciences, University of Oxford.</p>
 <p><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_2020.pdf" rel="noopener noreferrer" target="_blank">Syllabus</a></p>
 <ol>
     <li>Introduction to probability.&nbsp;<ul>

@@ -20,6 +20,7 @@ permalink: //teaching/
     </li>
     <li>Conditional probability.<ul>
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/S2.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/PS2.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 2</a></li>
         </ul>
     </li>
     <li>Random variables and their distributions.</li>

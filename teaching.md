@@ -18,7 +18,10 @@ permalink: //teaching/
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/Data.zip" rel="noopener noreferrer" target="_blank">Data</a></li>
         </ul>
     </li>
-    <li>Conditional probability.</li>
+    <li>Conditional probability.<ul>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/S2.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+        </ul>
+    </li>
     <li>Random variables and their distributions.</li>
     <li>Expectation and limit theorems.</li>
     <li>Theories of statistical inference.</li>

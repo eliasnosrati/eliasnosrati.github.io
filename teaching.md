@@ -13,13 +13,13 @@ permalink: //teaching/
 <p><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_2020.pdf" rel="noopener noreferrer" target="_blank">Syllabus</a></p>
 <ol>
     <li>Introduction to probability.&nbsp;<ul>
-            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_S1.pdf" rel="noopener noreferrer" target="_blank">Slides</a>&nbsp;</li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L1.pdf" rel="noopener noreferrer" target="_blank">Slides</a>&nbsp;</li>
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_PS1.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 1</a></li>
             <li><a href="https://qss.princeton.press/student-resources-for-quantitative-social-science/" rel="noopener noreferrer" target="_blank">Data</a></li>
         </ul>
     </li>
     <li>Conditional probability.<ul>
-            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_S2.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L2.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_PS2.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 2</a></li>
         </ul>
     </li>

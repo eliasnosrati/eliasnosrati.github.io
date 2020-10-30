@@ -23,7 +23,11 @@ permalink: //teaching/
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_PS2.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 2</a></li>
         </ul>
     </li>
-    <li>Random variables and their distributions.</li>
+    <li>Random variables and their distributions.<ul>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L3.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_PS3.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 3</a></li>
+        </ul>
+    </li>
     <li>Expectation and limit theorems.</li>
     <li>Theories of statistical inference.</li>
     <li>Introduction to causal inference.</li>

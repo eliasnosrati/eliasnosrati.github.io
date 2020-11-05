@@ -28,7 +28,7 @@ permalink: //teaching/
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_PS3.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 3</a></li>
         </ul>
     </li>
-    <li>Features of probabilitu distributions.<ul>
+    <li>Features of probability distributions.<ul>
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L4.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
         </ul>
     </li>

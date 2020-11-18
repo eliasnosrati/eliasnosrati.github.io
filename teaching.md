@@ -32,10 +32,10 @@ permalink: //teaching/
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L4.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
         </ul>
     </li>
+    <li>Mid-term revision lecture.</li>
     <li>Theories of statistical inference.</li>
     <li>Introduction to causal inference.</li>
     <li>Three forms of systematic bias.</li>
-    <li>Designs for causal inference.</li>
 </ol>
 <p><br></p>
 <p><br></p>

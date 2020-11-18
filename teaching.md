@@ -33,7 +33,7 @@ permalink: //teaching/
         </ul>
     </li>
     <li>Mid-term revision lecture.</li>
-    <li>Theories of statistical inference.</li>
+    <li>Introduction to statistical inference.</li>
     <li>Introduction to causal inference.</li>
     <li>Three forms of systematic bias.</li>
 </ol>

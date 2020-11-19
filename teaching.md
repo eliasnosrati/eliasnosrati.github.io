@@ -32,8 +32,14 @@ permalink: //teaching/
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L4.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
         </ul>
     </li>
-    <li>Mid-term revision lecture.</li>
-    <li>Introduction to statistical inference.</li>
+    <li>Mid-term revision lecture.<ul>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L5.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+        </ul>
+    </li>
+    <li>Introduction to statistical inference.<ul>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L6.pdf">Slides</a></li>
+        </ul>
+    </li>
     <li>Introduction to causal inference.</li>
     <li>Three forms of systematic bias.</li>
 </ol>

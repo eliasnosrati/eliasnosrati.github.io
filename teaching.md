@@ -43,7 +43,7 @@ permalink: //teaching/
         </ul>
     </li>
     <li>Introduction to causal inference.<ul>
-            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L6.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L7.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_PS5.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 5</a></li>
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/smoking.csv" rel="noopener noreferrer" target="_blank">Data</a></li>
         </ul>

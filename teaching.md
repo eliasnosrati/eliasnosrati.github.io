@@ -42,7 +42,12 @@ permalink: //teaching/
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_data_2.zip" rel="noopener noreferrer" target="_blank">Data</a></li>
         </ul>
     </li>
-    <li>Introduction to causal inference.</li>
+    <li>Introduction to causal inference.<ul>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L6.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_PS5.pdf" rel="noopener noreferrer" target="_blank">Problem sheet 5</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_data_3.zip" rel="noopener noreferrer" target="_blank">Data</a></li>
+        </ul>
+    </li>
     <li>Three forms of systematic bias.</li>
 </ol>
 <p><br></p>

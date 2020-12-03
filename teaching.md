@@ -49,6 +49,9 @@ permalink: //teaching/
         </ul>
     </li>
     <li>Three forms of systematic bias.</li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L8.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
+        </ul>
+    </li>
 </ol>
 <p><br></p>
 <p><br></p>

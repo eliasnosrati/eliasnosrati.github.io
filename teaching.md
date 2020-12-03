@@ -48,9 +48,10 @@ permalink: //teaching/
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/smoking.csv" rel="noopener noreferrer" target="_blank">Data</a></li>
         </ul>
     </li>
-    <li>Three forms of systematic bias.</li>
+    <li>Three forms of systematic bias.<ul>
             <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L8.pdf" rel="noopener noreferrer" target="_blank">Slides</a></li>
         </ul>
+    </li>
 </ol>
 <p><br></p>
 <p><br></p>

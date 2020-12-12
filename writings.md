@@ -3,11 +3,11 @@ layout: default
 title: "Writings"
 permalink: //writings/
 ---
-<p><span style="font-size: 15px;"><br></span></p>
-<p><span style="font-size: 15px;"><br></span></p>
-<p><span style="font-size: 15px;"><br></span></p>
-<p><span style="font-size: 15px;"><br></span></p>
-<p><span style="font-size: 15px;"><br></span></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
 <p style="text-align: justify;"><span style="font-size: 15px;">Elias Nosrati, Michael Marmot. 2020.&nbsp;<a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/IMF_health_02.pdf" rel="noopener noreferrer" target="_blank">The effect of International Monetary Fund programmes on population health</a>. Under review.</span></p>
 <p style="text-align: justify;"><span style="font-size: 15px;">Elias Nosrati, Andreas Kern, Bernhard Reinsberg, Dilek Sevinc. 2020. <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/IMFIFF.pdf" rel="noopener noreferrer" target="_blank">Structural adjustment, capital flight, and the reproduction of global inequality</a>. Under review.</span></p>
 <p style="text-align: justify;"><span style="font-size: 15px;">Andreas Kern, Elias Nosrati, Bernhard Reinsberg, Dilek Sevinc. 2020.&nbsp;</span><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/IMFAML_12.pdf" rel="noopener noreferrer" target="_blank"><span style="font-size: 15px;">Capital flight and the political economy of IMF conditionality</span></a><span style="font-size: 15px;">. Under review.</span></p>

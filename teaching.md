@@ -55,9 +55,9 @@ permalink: //teaching/
     </li>
 </ol>
 <p style="text-align: justify;"><br></p>
-<h3 style="text-align: justify;"><span style="font-size: 18px;">Previous teaching</span></h3>
+<h3 style="text-align: justify;"><span style="font-size: 18px;">Other teaching</span></h3>
 <ul style="list-style-type: square; text-align: justify;">
-    <li>Lecturer: Health and Illness (undergraduate option). Human Sciences, University of Oxford, 2019&ndash;20.</li>
+    <li>Lecturer: Health and Illness (undergraduate option). Human Sciences, University of Oxford, 2019&ndash;present.</li>
     <li>Supervisor: Global Social Problems (undergraduate option). Human, Social, and Political Sciences, University of Cambridge, 2017&ndash;18.</li>
     <li>Supervisor: Social Context of Health and Illness (mandatory module). School of Clinical Medicine, University of Cambridge, 2016&ndash;18.</li>
     <li>Lecturer: American Sociology (option for doctoral students). Department of Sociology, University of Paris-Dauphine, 2013&ndash;14.</li>

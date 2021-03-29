@@ -54,8 +54,8 @@ permalink: //teaching/
         </ul>
     </li>
     <li>Year-end revision lectures.<ul>
-            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L9.pdf" rel="noopener noreferrer" target="_blank">Slides (I)</a> and <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_syllabus.pdf" rel="noopener noreferrer" target="_blank">syllabus review</a>.</li>
-            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L10.pdf" rel="noopener noreferrer" target="_blank">Slides (II)</a>.</li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L9.pdf" rel="noopener noreferrer" target="_blank">Slides (I)</a> and <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_syllabus.pdf" rel="noopener noreferrer" target="_blank">syllabus review</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L10.pdf" rel="noopener noreferrer" target="_blank">Slides (II)</a></li>
         </ul>
     </li>
 </ol>

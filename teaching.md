@@ -54,14 +54,14 @@ permalink: //teaching/
         </ul>
     </li>
     <li>Year-end revision lectures.<ul>
-            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L9.pdf" rel="noopener noreferrer" target="_blank">Slides (I)</a> and <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_syllabus.pdf" rel="noopener noreferrer" target="_blank">syllabus review</a>.</li>
-            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L10.pdf" rel="noopener noreferrer" target="_blank">Slides (II)</a>.</li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L9.pdf" rel="noopener noreferrer" target="_blank">Slides (I)</a> and <a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_syllabus.pdf" rel="noopener noreferrer" target="_blank">syllabus review</a></li>
+            <li><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_L10.pdf" rel="noopener noreferrer" target="_blank">Slides (II)</a></li>
         </ul>
     </li>
 </ol>
 <p style="text-align: justify;"><span style="text-align: justify;"><strong>Social Policy and Health</strong></span></p>
 <p style="text-align: justify;">Lecturer. Final year undergraduate option, Human Sciences, University of Oxford.</p>
-<p style="text-align: justify;"><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/Nosrati_slides.pdf" rel="noopener noreferrer" target="_blank">Slides</a>.</p>
+<p style="text-align: justify;"><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/Nosrati_slides.pdf" rel="noopener noreferrer" target="_blank">Slides</a></p>
 <p style="text-align: justify;"><br></p>
 <h3 style="text-align: justify;">PREVIOUS TEACHING</h3>
 <ul style="list-style-type: square; text-align: justify;">

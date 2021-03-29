@@ -9,7 +9,6 @@ permalink: //teaching/
 <p><br></p>
 <p><br></p>
 <h3 style="text-align: justify;">CURRENT TEACHING</h3>
-<h3 style="text-align: justify;"><br></h3>
 <h4 style="text-align: justify;"><strong>Quantitative Methods</strong></h4>
 <p style="text-align: justify;">Module convenor. Final year undergraduate option, Human Sciences, University of Oxford.</p>
 <p style="text-align: justify;"><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_2020.pdf" rel="noopener noreferrer" target="_blank">Syllabus</a></p>

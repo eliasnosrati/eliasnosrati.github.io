@@ -8,9 +8,9 @@ permalink: //teaching/
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<h2 style="text-align: justify;">CURRENT TEACHING</h2>
+<h3 style="text-align: justify;">CURRENT TEACHING</h3>
 <h3 style="text-align: justify;"><br></h3>
-<h3 style="text-align: justify;"><strong>Quantitative Methods</strong></h3>
+<h4 style="text-align: justify;"><strong>Quantitative Methods</strong></h4>
 <p style="text-align: justify;">Module convenor. Final year undergraduate option, Human Sciences, University of Oxford.</p>
 <p style="text-align: justify;"><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_2020.pdf" rel="noopener noreferrer" target="_blank">Syllabus</a></p>
 <ol>
@@ -60,10 +60,10 @@ permalink: //teaching/
         </ul>
     </li>
 </ol>
-<h3 style="text-align: justify;"><span style="text-align: justify;"><strong>Social Policy and Health</strong></span></h3>
+<h4 style="text-align: justify;"><span style="text-align: justify;"><strong>Social Policy and Health</strong></span></h4>
 <p style="text-align: justify;">Lecturer. Final year undergraduate option, Human Sciences, University of Oxford.&nbsp;<a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/Nosrati_slides.pdf" rel="noopener noreferrer" target="_blank">Slides</a>.</p>
 <p style="text-align: justify;"><br></p>
-<h2 style="text-align: justify;">PREVIOUS TEACHING</h2>
+<h3 style="text-align: justify;">PREVIOUS TEACHING</h3>
 <ul style="list-style-type: square; text-align: justify;">
     <li>Supervisor: Global Social Problems (undergraduate option). Human, Social, and Political Sciences, University of Cambridge, 2017&ndash;18.</li>
     <li>Supervisor: Social Context of Health and Illness (mandatory module). School of Clinical Medicine, University of Cambridge, 2016&ndash;18.</li>

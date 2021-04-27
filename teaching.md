@@ -60,7 +60,7 @@ permalink: //teaching/
     </li>
 </ol>
 <h4 style="text-align: justify;"><span style="text-align: justify;"><strong>Social Policy and Health</strong></span></h4>
-<p style="text-align: justify;">Lecturer. Final year undergraduate option, Human Sciences, University of Oxford.&nbsp;<a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/Nosrati_slides.pdf" rel="noopener noreferrer" target="_blank">Slides</a>.</p>
+<p style="text-align: justify;">Lecturer. Final year undergraduate option, Human Sciences, University of Oxford.&nbsp;<a href="https://drive.google.com/file/d/1dADzMeq_5F30JfLAWjtlVeuF44fgeqek/view?usp=sharing" rel="noopener noreferrer" target="_blank">Slides</a>.</p>
 <p style="text-align: justify;"><br></p>
 <h3 style="text-align: justify;">PREVIOUS TEACHING</h3>
 <ul style="list-style-type: square; text-align: justify;">

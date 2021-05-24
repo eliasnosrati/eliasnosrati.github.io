@@ -54,8 +54,13 @@ permalink: //teaching/
         </ul>
     </li>
     <li>Year-end revision lectures.<ul>
-            <li><a href="https://drive.google.com/file/d/17qF5ACkHU6VryKIPR9RAjJs0M6E6Oa3U/view?usp=sharing" rel="noopener noreferrer" target="_blank">Slides (I)</a> and <a href="https://drive.google.com/file/d/1M7VTfdrJeSx4AxoDmIpfU9dDLroxfdcR/view?usp=sharing" rel="noopener noreferrer" target="_blank">syllabus review</a></li>
+            <li><a href="https://drive.google.com/file/d/17qF5ACkHU6VryKIPR9RAjJs0M6E6Oa3U/view?usp=sharing" rel="noopener noreferrer" target="_blank">Slides (I)</a></li>
             <li><a href="https://drive.google.com/file/d/1DOT1mxNAp5x9sIdoqrsBP_rZKq4G33Bl/view?usp=sharing" rel="noopener noreferrer" target="_blank">Slides (II)</a></li>
+        </ul>
+    </li>
+    <li>Review and revision.<ul style="list-style-type: circle;">
+            <li><a href="https://drive.google.com/file/d/1M7VTfdrJeSx4AxoDmIpfU9dDLroxfdcR/view?usp=sharing" rel="noopener noreferrer" target="_blank">Syllabus review</a></li>
+            <li><a href="https://drive.google.com/file/d/1nUSJwLc6a4UeMioFh95Bkcp8Z3GABBxq/view?usp=sharing" rel="noopener noreferrer" target="_blank">Problem sheet</a></li>
         </ul>
     </li>
 </ol>

@@ -38,7 +38,7 @@ permalink: //teaching/
         </ul>
     </li>
     <li>Introduction to statistical inference.<ul>
-            <li style="text-align: justify;"><a href="https://drive.google.com/file/d/1HG04sUT01wf55ugavJrlMgWtmIejOkoc/view?usp=sharing">Slides</a></li>
+            <li style="text-align: justify;"><a href="https://drive.google.com/file/d/1HG04sUT01wf55ugavJrlMgWtmIejOkoc/view?usp=sharing" rel="noopener noreferrer" target="_blank">Slides</a></li>
             <li style="text-align: justify;"><a href="https://drive.google.com/file/d/1S1cSSYzZABnfFEhdb_nBX0OMzgMZPPkW/view?usp=sharing" rel="noopener noreferrer" target="_blank">Problem sheet 4</a></li>
             <li style="text-align: justify;"><a href="https://github.com/eliasnosrati/eliasnosrati.github.io/blob/master/QM_data_2.zip" rel="noopener noreferrer" target="_blank">Data</a></li>
         </ul>

@@ -11,7 +11,7 @@ permalink: //teaching/
 <h3 style="text-align: justify;">CURRENT TEACHING</h3>
 <h4 style="text-align: justify;"><strong>Quantitative Methods</strong></h4>
 <p style="text-align: justify;">Module convenor. Final year undergraduate option, Human Sciences, University of Oxford.</p>
-<p style="text-align: justify;"><a href="https://drive.google.com/file/d/1i4Bk71NQSPAy2JCBf7qOcDW7icwpceQy/view?usp=sharing" rel="noopener noreferrer" target="_blank">Syllabus</a></p>
+<p style="text-align: justify;"><a href="https://drive.google.com/file/d/1yg6YRMEB9vT-LaIpKAvQ_3XMqCBYvVqp/view?usp=sharing" rel="noopener noreferrer" target="_blank">Syllabus</a></p>
 <ol>
     <li>Introduction to probability.&nbsp;<ul>
             <li style="text-align: justify;"><a href="https://drive.google.com/file/d/1FS2BuaXe8_AtBLwlQ1xJe3gvcaodMDll/view?usp=sharing" rel="noopener noreferrer" target="_blank">Slides</a>&nbsp;</li>

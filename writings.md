@@ -8,14 +8,6 @@ permalink: //writings/
 <p><br></p>
 <p><br></p>
 <p><br></p>
----
-layout: default
-title: "Writings"
-permalink: /writings/
----
-
-<p><br></p><p><br></p>
-
 <p style="text-align: justify;"><span style="font-size: 15px;"><strong>Journal articles</strong></span></p>
 
 <p style="text-align: justify;"><span style="font-size: 15px;">Shih-Yen Pan, Lawrence P. King, Elias Nosrati. 2026. <a href="https://www.tandfonline.com/doi/full/10.1080/00220388.2026.2625047" rel="noopener noreferrer" target="_blank">The IMF, structural adjustment, and poverty: a cross-national difference-in-differences analysis, 1980–2019</a>. <em>Journal of Development Studies</em>. Online first.</span></p>

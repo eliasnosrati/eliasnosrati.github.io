@@ -11,7 +11,7 @@ permalink: //teaching/
 <h3 style="text-align: justify;">TEACHING RESOURCES</h3>
 <ul style="list-style-type: circle;">
     <li>
-        <h4 style="text-align: justify;"><span style="text-align: justify;"><strong>Social Policy and Health:&nbsp;</strong></span>Final year undergraduate option, Human Sciences, University of Oxford (2020&ndash;). <a href="https://drive.google.com/file/d/1QqgW_vWVjNhKAdGaX6uzohHo92ai9aMF/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>.</h4>
+        <h4 style="text-align: justify;"><span style="text-align: justify;">Social Policy and Health:&nbsp;</span>Final year undergraduate option, Human Sciences, University of Oxford (2020&ndash;). <a href="https://drive.google.com/file/d/1QqgW_vWVjNhKAdGaX6uzohHo92ai9aMF/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>.</h4>
     </li>
     <li>
         <h4 style="text-align: justify;">Quantitative Methods. First-year introductory module. Social Science Faculty, University of Oslo (2024&ndash;). <a href="https://drive.google.com/file/d/16nLv8VYTGw9zPGJr4jajHQS11XGgk9qy/view?usp=sharing" target="_blank" rel="noopener noreferrer">Full course slides</a> (in Norwegian).</h4>
@@ -27,8 +27,4 @@ permalink: //teaching/
     </li>
 </ul>
 <p style="text-align: justify;"><br></p>
-<p><br></p>
-<p><br></p>
-    <li>Lecturer: American Sociology (option for doctoral students). Department of Sociology, University of Paris-Dauphine, 2013&ndash;14.</li>
-</ul>
 <p><br></p>

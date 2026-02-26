@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Teaching resources"
+title: "Teaching"
 permalink: //teaching/
 ---
 <p>&nbsp;</p>

@@ -6,7 +6,7 @@ permalink: //teaching/
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<h3>&nbsp;Selected resources</h3>
 <p>&nbsp;</p>
 <ul style="list-style-type: circle;">
 <li>

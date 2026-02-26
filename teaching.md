@@ -1,14 +1,13 @@
 ---
 layout: default
-title: "Teaching"
-permalink: //teaching/
+title: "Teaching resources"
+permalink: //teaching resources/
 ---
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h3 style="text-align: justify;">TEACHING RESOURCES</h3>
 <ul style="list-style-type: circle;">
 <li>
 <p style="text-align: justify;"><span style="text-align: justify;">Social Policy and Health:&nbsp;</span>Final year undergraduate option, Human Sciences, University of Oxford (2020&ndash;). <a href="https://drive.google.com/file/d/1QqgW_vWVjNhKAdGaX6uzohHo92ai9aMF/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>.</p>

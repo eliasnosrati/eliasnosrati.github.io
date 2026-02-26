@@ -1,4 +1,4 @@
-<div style="max-width:1000px;margin:0 auto;">
+<div style="max-width:1050px;margin:0 auto;">
 <p><br></p>
 <p><br></p>
 <p><br></p>

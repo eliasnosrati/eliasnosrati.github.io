@@ -24,7 +24,7 @@ permalink: //teaching/
 <p style="text-align: justify;">Quantitative Methods: generalised linear models and fixed-effects panel regressions. Graduate course, MSc in Sociology, University of Oslo (2024&ndash;2025). <a href="https://drive.google.com/file/d/1IG0W0hu0oYtNwC_bXsdEpvfr5xiX0Shh/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a> (in Norwegian).</p>
 </li>
 <li>
-<p style="text-align: justify;">Advanced Quantitative Methods: instrumental variables and difference-in-differences. PhD course for social scientists, University of Oslo (2024&ndash;2025). <a href="https://drive.google.com/drive/home">Slides</a>.</p>
+<p style="text-align: justify;">Advanced Quantitative Methods: instrumental variables and difference-in-differences. PhD course for social scientists, University of Oslo (2024&ndash;2025). <a href="https://drive.google.com/file/d/1gFxlI7Y1YLOKNNo2GgjZjs0gxWqSxmaa/view?usp=sharing">Slides</a>.</p>
 </li>
 </ul>
 <p style="text-align: justify;">&nbsp;</p>

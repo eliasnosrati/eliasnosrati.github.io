@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Teaching resources"
-permalink: //teaching resources/
+permalink: //teaching/
 ---
 <p>&nbsp;</p>
 <p>&nbsp;</p>

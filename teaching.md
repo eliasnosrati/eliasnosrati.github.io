@@ -3,9 +3,11 @@ layout: default
 title: "Teaching"
 permalink: //teaching/
 ---
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
 <h3>&nbsp;Selected resources</h3>
 <p>&nbsp;</p>
 <ul style="list-style-type: circle;">

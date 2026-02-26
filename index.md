@@ -3,4 +3,4 @@
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<p style="text-align: justify;"><span style="font-size: 18px;">I am the Peter J. Braam Junior Research Fellow in Global Wellbeing at Merton College, University of Oxford. My principal research interests are in political economy, population health, and statistical methods. My empirical research focus is on unequal life chances and their multilevel determinants.</span></p>
+<p style="text-align: justify;"><span style="font-size: 18px;">I am a research fellow at the University of Oslo and Fafo Institute for Labour and Social Research. My principal research interests are in social inequality and public policy. The bulk of my published work is concerned with the political economy of unequal life chances, with a special emphasis on the institutional determinants of population health patterns. My ongoing work is primarily concerned with the political economy of fiscal and monetary policy, including optimal taxation and international macro-finance. I am also interested in developing tractable formal models that combine insights from different disiplines to connect theory and data in novel ways. </span></p>

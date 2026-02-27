@@ -8,7 +8,7 @@ permalink: //teaching/
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<h3>&nbsp;Selected teaching resources</h3>
+<h3>&nbsp;Selected recent teaching</h3>
 <p>&nbsp;</p>
 <ul style="list-style-type: circle;">
 <li>

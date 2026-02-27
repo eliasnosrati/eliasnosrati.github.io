@@ -10,7 +10,7 @@ permalink: //teaching/
 <p><br></p>
 <h3>&nbsp;Selected recent teaching</h3>
 <p>&nbsp;</p>
-<ul style="list-style-type: circle;">
+<ul style="list-style-type: square;">
 <li>
 <p style="text-align: justify;"><span style="text-align: justify;">Population Health. &nbsp;</span>Final year undergraduate option, BSc in Human Sciences, University of Oxford (2020&ndash;). Lecture on social policy and health. <a href="https://drive.google.com/file/d/1QqgW_vWVjNhKAdGaX6uzohHo92ai9aMF/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>.</p>
 </li>

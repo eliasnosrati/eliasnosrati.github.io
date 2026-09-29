@@ -38,7 +38,7 @@ permalink: //publications/
 <p style="text-align: justify;"><span style="font-size: 15px;"><strong>Book chapters</strong></span></p>
 
 <p style="text-align: justify;"><span style="font-size: 15px;">Elias Nosrati. 2023. <a href="https://www.idunn.no/doi/10.18261/9788215065403-23-13" rel="noopener noreferrer" target="_blank">Ulikhetens geografi [The geography of inequality]</a>. In Tone Fløtten, Hanne Kavli, Sissel Trygstad. Eds. <em>Ulikhetens drivere og dilemmaer</em>. Oslo: Universitetsforlaget.</span></p>
-<p style="text-align: justify;"><span style="font-size: 15px;">Elias Nosrati. 2017. Survivre à Montparnasse [Surviving in Montparnasse]. In Michel Offerlé (ed). <em>Patrons en France</em>. Paris: La Découverte: pp. 220&ndash;231.</span></p>
+<p style="text-align: justify;"><span style="font-size: 15px;">Elias Nosrati. 2017. Survivre à Montparnasse [Surviving in Montparnasse]. In Michel Offerlé (ed). <a href="https://www.editionsladecouverte.fr/patrons_en_france-9782707190734" rel="noopener noreferrer" target="_blank"><em>Patrons en France</em>. Paris: La Découverte: pp. 220&ndash;231.</span></p>
 
 <p><br></p>
 
